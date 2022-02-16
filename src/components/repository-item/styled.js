@@ -1,9 +1,10 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
+  background-color: #F0FFFF;
   padding: 8px;
   border-radius: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #191970;
   margin: 16px 16px;
   width: 350px;
   height: 150px;
@@ -20,7 +21,7 @@ export const WrapperFullName = styled.h2`
   font-size: 16px;
   font-weight: bold;
   margin: 8px 0;
-  color: #2d3748;
+  color: #8FBC8F;
 `;
 
 export const WrapperLink = styled.a`
